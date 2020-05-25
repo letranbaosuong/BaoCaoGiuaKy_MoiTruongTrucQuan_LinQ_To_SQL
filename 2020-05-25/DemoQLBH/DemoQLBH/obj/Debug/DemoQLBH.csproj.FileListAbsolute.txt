@@ -1,0 +1,10 @@
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Test_LinQ\DemoQLBH\DemoQLBH\bin\Debug\DemoQLBH.exe.config
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Test_LinQ\DemoQLBH\DemoQLBH\bin\Debug\DemoQLBH.exe
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Test_LinQ\DemoQLBH\DemoQLBH\bin\Debug\DemoQLBH.pdb
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Test_LinQ\DemoQLBH\DemoQLBH\obj\Debug\DemoQLBH.csprojAssemblyReference.cache
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Test_LinQ\DemoQLBH\DemoQLBH\obj\Debug\DemoQLBH.Form1.resources
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Test_LinQ\DemoQLBH\DemoQLBH\obj\Debug\DemoQLBH.Properties.Resources.resources
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Test_LinQ\DemoQLBH\DemoQLBH\obj\Debug\DemoQLBH.csproj.GenerateResource.cache
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Test_LinQ\DemoQLBH\DemoQLBH\obj\Debug\DemoQLBH.csproj.CoreCompileInputs.cache
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Test_LinQ\DemoQLBH\DemoQLBH\obj\Debug\DemoQLBH.exe
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Test_LinQ\DemoQLBH\DemoQLBH\obj\Debug\DemoQLBH.pdb

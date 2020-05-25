@@ -1,0 +1,30 @@
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_6\LinQToPostgreSQLDemo\LinQToPostgreSQLDemo\bin\Debug\LinQToPostgreSQLDemo.exe.config
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_6\LinQToPostgreSQLDemo\LinQToPostgreSQLDemo\bin\Debug\LinQToPostgreSQLDemo.exe
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_6\LinQToPostgreSQLDemo\LinQToPostgreSQLDemo\bin\Debug\LinQToPostgreSQLDemo.pdb
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_6\LinQToPostgreSQLDemo\LinQToPostgreSQLDemo\bin\Debug\Devart.Data.dll
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_6\LinQToPostgreSQLDemo\LinQToPostgreSQLDemo\bin\Debug\Devart.Data.Linq.dll
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_6\LinQToPostgreSQLDemo\LinQToPostgreSQLDemo\bin\Debug\Devart.Data.PostgreSql.dll
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_6\LinQToPostgreSQLDemo\LinQToPostgreSQLDemo\bin\Debug\Devart.Data.PostgreSql.Linq.dll
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_6\LinQToPostgreSQLDemo\LinQToPostgreSQLDemo\obj\Debug\LinQToPostgreSQLDemo.csprojAssemblyReference.cache
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_6\LinQToPostgreSQLDemo\LinQToPostgreSQLDemo\obj\Debug\LinQToPostgreSQLDemo.Properties.Resources.resources
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_6\LinQToPostgreSQLDemo\LinQToPostgreSQLDemo\obj\Debug\LinQToPostgreSQLDemo.csproj.GenerateResource.cache
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_6\LinQToPostgreSQLDemo\LinQToPostgreSQLDemo\obj\Debug\LinQToPostgreSQLDemo.csproj.CoreCompileInputs.cache
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_6\LinQToPostgreSQLDemo\LinQToPostgreSQLDemo\obj\Debug\LinQToPostgreSQLDemo.csproj.CopyComplete
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_6\LinQToPostgreSQLDemo\LinQToPostgreSQLDemo\obj\Debug\LinQToPostgreSQLDemo.exe
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_6\LinQToPostgreSQLDemo\LinQToPostgreSQLDemo\obj\Debug\LinQToPostgreSQLDemo.pdb
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_6\LinQToPostgreSQLDemo\LinQToPostgreSQLDemo\obj\Debug\LinQToPostgreSQLDemo.frmMain.resources
+C:\Users\letra\OneDrive\Desktop\Lap Trinh Truc Quan\BaoCao\2020-05-18\LinQToPostgreSQLDemo\LinQToPostgreSQLDemo\bin\Debug\LinQToPostgreSQLDemo.exe.config
+C:\Users\letra\OneDrive\Desktop\Lap Trinh Truc Quan\BaoCao\2020-05-18\LinQToPostgreSQLDemo\LinQToPostgreSQLDemo\bin\Debug\LinQToPostgreSQLDemo.exe
+C:\Users\letra\OneDrive\Desktop\Lap Trinh Truc Quan\BaoCao\2020-05-18\LinQToPostgreSQLDemo\LinQToPostgreSQLDemo\bin\Debug\LinQToPostgreSQLDemo.pdb
+C:\Users\letra\OneDrive\Desktop\Lap Trinh Truc Quan\BaoCao\2020-05-18\LinQToPostgreSQLDemo\LinQToPostgreSQLDemo\bin\Debug\Devart.Data.dll
+C:\Users\letra\OneDrive\Desktop\Lap Trinh Truc Quan\BaoCao\2020-05-18\LinQToPostgreSQLDemo\LinQToPostgreSQLDemo\bin\Debug\Devart.Data.Linq.dll
+C:\Users\letra\OneDrive\Desktop\Lap Trinh Truc Quan\BaoCao\2020-05-18\LinQToPostgreSQLDemo\LinQToPostgreSQLDemo\bin\Debug\Devart.Data.PostgreSql.dll
+C:\Users\letra\OneDrive\Desktop\Lap Trinh Truc Quan\BaoCao\2020-05-18\LinQToPostgreSQLDemo\LinQToPostgreSQLDemo\bin\Debug\Devart.Data.PostgreSql.Linq.dll
+C:\Users\letra\OneDrive\Desktop\Lap Trinh Truc Quan\BaoCao\2020-05-18\LinQToPostgreSQLDemo\LinQToPostgreSQLDemo\obj\Debug\LinQToPostgreSQLDemo.csprojAssemblyReference.cache
+C:\Users\letra\OneDrive\Desktop\Lap Trinh Truc Quan\BaoCao\2020-05-18\LinQToPostgreSQLDemo\LinQToPostgreSQLDemo\obj\Debug\LinQToPostgreSQLDemo.frmMain.resources
+C:\Users\letra\OneDrive\Desktop\Lap Trinh Truc Quan\BaoCao\2020-05-18\LinQToPostgreSQLDemo\LinQToPostgreSQLDemo\obj\Debug\LinQToPostgreSQLDemo.Properties.Resources.resources
+C:\Users\letra\OneDrive\Desktop\Lap Trinh Truc Quan\BaoCao\2020-05-18\LinQToPostgreSQLDemo\LinQToPostgreSQLDemo\obj\Debug\LinQToPostgreSQLDemo.csproj.GenerateResource.cache
+C:\Users\letra\OneDrive\Desktop\Lap Trinh Truc Quan\BaoCao\2020-05-18\LinQToPostgreSQLDemo\LinQToPostgreSQLDemo\obj\Debug\LinQToPostgreSQLDemo.csproj.CoreCompileInputs.cache
+C:\Users\letra\OneDrive\Desktop\Lap Trinh Truc Quan\BaoCao\2020-05-18\LinQToPostgreSQLDemo\LinQToPostgreSQLDemo\obj\Debug\LinQToPostgreSQLDemo.csproj.CopyComplete
+C:\Users\letra\OneDrive\Desktop\Lap Trinh Truc Quan\BaoCao\2020-05-18\LinQToPostgreSQLDemo\LinQToPostgreSQLDemo\obj\Debug\LinQToPostgreSQLDemo.exe
+C:\Users\letra\OneDrive\Desktop\Lap Trinh Truc Quan\BaoCao\2020-05-18\LinQToPostgreSQLDemo\LinQToPostgreSQLDemo\obj\Debug\LinQToPostgreSQLDemo.pdb
